@@ -1,0 +1,14 @@
+body{
+    margin: 9%;
+}
+
+.swag{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(45, 151, 243);
+    font-family: Helvetica, sans-serif;
+    font-size: 80px;
+    margin-top: 200px;
+    margin-bottom: 110px;
+}
