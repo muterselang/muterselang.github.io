@@ -6,9 +6,10 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    color: rgb(45, 151, 243);
+    color: rgb(255, 0, 0);
     font-family: Helvetica, sans-serif;
-    font-size: 80px;
+    text-decoration: none;
+    font-size: 60px;
     margin-top: 200px;
     margin-bottom: 110px;
 }
