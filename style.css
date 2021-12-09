@@ -1,15 +1,17 @@
 body{
-    margin: 9%;
+    margin: 15%;
 }
 
 .swag{
     display: flex;
     align-items: center;
     justify-content: center;
-    color: rgb(255, 0, 0);
-    font-family: Helvetica, sans-serif;
-    text-decoration: none;
-    font-size: 60px;
-    margin-top: 200px;
-    margin-bottom: 110px;
+    font-size: large;
+    font-family: Helvetica;
+}
+
+.img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
