@@ -1,17 +1,22 @@
 body{
-    margin: 15%;
+    margin: 5%;
 }
 
-.swag{
+.top{
     display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: large;
     font-family: Helvetica;
+    justify-content: center;
+    align-items: center;
 }
 
-.img{
+.mid{
     display: flex;
-    align-items: center;
+    font-family: helvetica;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.pict{
+    display: flex;
     justify-content: center;
 }
